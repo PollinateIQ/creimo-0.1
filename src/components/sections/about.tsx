@@ -55,10 +55,10 @@ export function About() {
               Advancing Surface Technology
             </h2>
             <p className="text-lg text-brand-navy/70 mb-6">
-              At Creimo, we're pioneering the future of surface coating technology. Our innovative solutions combine cutting-edge research with sustainable practices to deliver exceptional results across industries.
+              At Creimo, we&apos;re pioneering the future of surface coating technology. Our innovative solutions combine cutting-edge research with sustainable practices to deliver exceptional results across industries.
             </p>
             <p className="text-lg text-brand-navy/70 mb-8">
-              From nano-ceramic coatings to eco-friendly alternatives, we're committed to pushing the boundaries of what's possible in surface protection and enhancement.
+              From nano-ceramic coatings to eco-friendly alternatives, we&apos;re committed to pushing the boundaries of what&apos;s possible in surface protection and enhancement.
             </p>
             
             <Button

@@ -16,7 +16,6 @@ export function useMobile() {
   useEffect(() => {
     if (typeof window === "undefined") return;
 
-    const mql = window.matchMedia(`(max-width: ${MOBILE_BREAKPOINT - 1}px)`);
     handleResize();
 
     window.addEventListener("resize", handleResize);

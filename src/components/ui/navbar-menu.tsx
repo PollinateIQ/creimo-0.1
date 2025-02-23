@@ -6,13 +6,6 @@ import { motion } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
 
-type MenuItemWithSubMenuProps = {
-  item: string;
-  active: string | null;
-  setActive: (item: string | null) => void;
-  children: React.ReactNode;
-};
-
 type MenuItemProps = {
   setActive: (item: string | null) => void;
   active: string | null;

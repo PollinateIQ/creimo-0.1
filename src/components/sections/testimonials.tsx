@@ -139,7 +139,7 @@ export function Testimonials() {
                   className="relative"
                 >
                   <div className="absolute -left-8 top-0 text-6xl text-brand-magenta opacity-20">
-                    "
+                    &quot;
                   </div>
                   <motion.p className="text-xl md:text-2xl text-brand-navy/80 mb-8 italic">
                     {testimonials[active].quote.split(" ").map((word, index) => (
